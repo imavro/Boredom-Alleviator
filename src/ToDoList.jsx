@@ -4,7 +4,7 @@ function ToDoList(){
 
     const [task, setTask] = useState([]);
     const tasks = [ "Logical Redstone", "React js", "Memory Palace", "Vim",
-                            "Life Admin", "Workout", "Schedule", "Read Book"]
+                            "Life Admin", "Workout", "Schedule", "Read Book", "LaTeX"]
 
 
     function addTask() {
